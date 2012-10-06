@@ -4,4 +4,8 @@
     <string name="hello">Hello World, ToiletBullActivity!</string>
     <string name="app_name">ToiletBull</string>
 
+	<string-array name="preference_array">
+        <item>Comfort</item>
+    </string-array>
+
 </resources>
