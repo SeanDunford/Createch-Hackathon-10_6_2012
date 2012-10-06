@@ -1,3 +1,5 @@
+/.gitignore
+/BullCrapSharedPreferencesDTO.class
 /R$attr.class
 /R$drawable.class
 /R$id.class
